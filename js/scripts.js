@@ -7,8 +7,8 @@ var navigate = (function() {
   });
 })();
 
-/*var clears = document.querySelectorAll(".clear");
-var inputs = document.querySelectorAll("input");
+var clears = document.querySelectorAll(".clear");
+/*var inputs = document.querySelectorAll("input");
 
 for (let i=0; i<3; i++) {
   inputs[i].addEventListener("input", function(e) {
