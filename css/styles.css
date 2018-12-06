@@ -92,12 +92,12 @@ input[type="submit"] {
   line-height: 0px;
 }
 
-/*input[type="submit"]:hover {
+input[type="submit"]:hover {
   background: #666;
   color: white;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
