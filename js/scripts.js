@@ -8,14 +8,13 @@ var navigate = (function() {
 })();
 
 var clears = document.querySelectorAll(".clear");
-/*var inputs = document.querySelectorAll("input");
+var inputs = document.querySelectorAll("input");
 
-for (let i=0; i<3; i++) {
+for (let i = 0; i < 3; i++) {
   inputs[i].addEventListener("input", function(e) {
     if (e.target.value.length > 0) {
       clears[i].style.display = "block";
-    }
-    else {
+    } else {
       clears[i].style.display = "none";
     }
   });
