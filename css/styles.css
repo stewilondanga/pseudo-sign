@@ -43,12 +43,12 @@ h2 {
   text-align: center;
 }
 
-/*.input-wrap {
+.input-wrap {
   width: 100%;
   position: relative;
 }
 
-label {
+/*label {
   padding: 15px;
 }
 
