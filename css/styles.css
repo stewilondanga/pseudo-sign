@@ -64,12 +64,12 @@ input {
   background: rgba(256, 256, 256, 0.8);
 }
 
-/*input:focus {
+input:focus {
   border: #3498db solid 1px;
-  background: rgba(256,256,256,1);
+  background: rgba(256, 256, 256, 1);
 }
 
-.clear {
+/*.clear {
   position: absolute;
   top: 24px;
   right: 10px;
