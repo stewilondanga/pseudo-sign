@@ -4,6 +4,17 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: Arial;
+  background: #ECEEF1;
+  background: linear-gradient(to top left, #cc95c0, #dbd4b4, #7aa1d2);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -25,17 +36,6 @@
 
 .my_social a img {
   height: 1.5em;
-}
-
-body {
-  font-family: Arial;
-  background: #ECEEF1;
-  background: linear-gradient(to top left, #cc95c0, #dbd4b4, #7aa1d2);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
 }
 
 form {
