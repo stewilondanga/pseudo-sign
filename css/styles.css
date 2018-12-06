@@ -26,11 +26,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-form {
+/*form {
   background: rgba(256,256,256,0.4);
   color: #666;
   padding: 20px;
